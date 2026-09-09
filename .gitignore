@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+
+# Local editor state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Temporary files
+*.tmp
+*.log
+*~
